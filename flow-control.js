@@ -3,7 +3,7 @@ function basicTeenager(age) {
     return "You are a teenager!";
   }
 
-/* ANOTHER SOLUTION (for above)
+/* ANOTHER SOLUTION (replaces if-statement above)
 if(age < 13 || age > 19) {
     console.log("You are not a teenager!");
   } else {
